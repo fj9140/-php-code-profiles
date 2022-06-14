@@ -1,1 +1,1 @@
-# -php-code-profiles
+# php-code-profiles
